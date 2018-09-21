@@ -1,6 +1,6 @@
 # Introduction
 
-Author: Liping Ding
+Author: Ding
 Date: Feb 10th 2018
 
 # Problems and Research
